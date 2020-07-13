@@ -6,7 +6,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // Name:        messageQueue.h
 // Purpose:     messageQueue: Simple Message Queue for intra-thread communication
-// Author:      Julian Smart
+// Author:      Mohd Radzi Ibrahim
 // Modified by:
 // Created:     13 July 2020
 // Copyright:   (c) MR Ibrahim
