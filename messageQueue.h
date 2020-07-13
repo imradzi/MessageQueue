@@ -48,6 +48,7 @@ public:
                                                      // when return, the lock is remained locked.
         item = queue.front();
         queue.pop();
+        lock.unlock();
         return true;
     }
 };
